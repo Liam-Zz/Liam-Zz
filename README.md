@@ -7,16 +7,3 @@
 ### **社交主页：**
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
-
-
-### **技术栈:**
-
-
-
-### 开源项目
-
-
-
-### Github 活跃度
-
-
