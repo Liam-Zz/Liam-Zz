@@ -5,5 +5,5 @@
 一名只会用工具的脚本小子
 
 ### **社交主页：**
-
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+<!--
+ <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" /> -->
